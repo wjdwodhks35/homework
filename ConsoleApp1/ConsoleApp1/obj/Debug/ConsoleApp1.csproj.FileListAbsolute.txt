@@ -1,0 +1,7 @@
+F:\c#언어\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\c#언어\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\c#언어\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\c#언어\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\c#언어\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\c#언어\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\c#언어\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
